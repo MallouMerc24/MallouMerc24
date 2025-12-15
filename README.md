@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 ## 👨‍💻 Cybersecurity Projects 
-- **[Azure Honeypot](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Azure Honey Net](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
 
