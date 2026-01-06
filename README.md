@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MallouMerc24/threat-hunting-scenario-tor/blob/main/README.md)**
-- **[Threat Hunting Scenario (CTF: DEAD IN THE WATER)](https://github.com/MallouMerc24/threat-hunting-scenario-tor/blob/main/README.md)**
+- **[Threat Hunting Scenario (CTF: DEAD IN THE WATER)](https://github.com/MallouMerc24/Threat-Hunting-Scenario-CTF-DEAD-IN-THE-WATER/blob/main/README.md)**
 
 
 ## 👨‍💻 Cybersecurity Projects 
