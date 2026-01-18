@@ -20,7 +20,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🧪 Job Simulation
 
 - **[Datacom – Security Operations](https://github.com/MallouMerc24/SOC-Azure-Honeypot/blob/main/README.md)**
-- **[Commonwealth Bank - Cybersecurity](https://github.com/MallouMerc24/SOC-Azure-Honeypot/blob/main/README.md)**
+- **[Commonwealth Bank - Cybersecurity](https://github.com/MallouMerc24/commonwealth-bank-cybersecurity-forage)**
 
 
 <hr/>
