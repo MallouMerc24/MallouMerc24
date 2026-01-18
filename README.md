@@ -16,6 +16,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 👨‍💻 Cybersecurity Projects 
 - **[Azure Honeypot](https://github.com/MallouMerc24/SOC-Azure-Honeypot/blob/main/README.md)**
+- **[Datacom – Security Operations](https://github.com/MallouMerc24/SOC-Azure-Honeypot/blob/main/README.md)**
+- **[Datacom – Security Operations](https://github.com/MallouMerc24/SOC-Azure-Honeypot/blob/main/README.md)**
+
 
 <hr/>
 
